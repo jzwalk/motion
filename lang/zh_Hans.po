@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motion for Typecho 1.1.0\n"
+"POT-Creation-Date: 2014-03-13 17:44+0800\n"
+"PO-Revision-Date: 2014-03-13 18:25+0800\n"
+"Last-Translator: 羽中 <zyz59@126.com>\n"
+"Language-Team: 羽中 <zyz59@126.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: 404.php:6
+msgid "Oops! Page Not Found"
+msgstr "哎呀! 页面没有找到"
+
+#: 404.php:9
+msgid "What you are looking for doesn't seem to exist. (Error 404)"
+msgstr "你要找的内容似乎不在这里. (错误 404)"
+
+#: archive.php:6
+msgid "Category:"
+msgstr "分类:"
+
+#: archive.php:8
+msgid "Tag Archive:"
+msgstr "标签:"
+
+#: archive.php:10 archive.php:12 archive.php:14
+msgid "Archive for"
+msgstr "归档:"
+
+#: archive.php:16
+msgid "Author:"
+msgstr "作者:"
+
+#: archive.php:23 author.php:10 index.php:20 post.php:8 search.php:11
+msgid "Filed Under:"
+msgstr "所属分类:"
+
+#: archive.php:23 index.php:20 post.php:8 search.php:11
+msgid "by"
+msgstr "作者:"
+
+#: archive.php:31 index.php:28 post.php:25 search.php:19
+msgid "Tags"
+msgstr "标签"
+
+#: archive.php:31 index.php:28 post.php:25 search.php:19
+msgid "none"
+msgstr "无"
+
+#: archive.php:32 index.php:29 search.php:20
+msgid "Read more"
+msgstr "阅读全文"
+
+#: archive.php:39 search.php:30
+msgid "Oops!"
+msgstr "哎呀!"
+
+#: archive.php:42 search.php:33
+msgid "What you are looking for doesn't seem to be on this page..."
+msgstr "你要找的内容似乎不在这里..."
+
+#: author.php:4
+msgid "Entries by"
+msgstr "作者:"
+
+#: author.php:4
+msgid "&raquo;"
+msgstr ""
+
+#: comments.php:24
+msgid "(Your comment is awaiting moderation...)"
+msgstr "(你的评论正在等待审核...)"
+
+#: comments.php:31
+msgid "Reply"
+msgstr "回复"
+
+#: comments.php:42
+msgid "No Comments filed."
+msgstr "暂无评论."
+
+#: comments.php:42
+msgid "One Comment:"
+msgstr "1条评论:"
+
+#: comments.php:42
+#, php-format
+msgid "%d Comments:"
+msgstr "%d条评论:"
+
+#: comments.php:52
+msgid "Leave a Comment:"
+msgstr "留下评论:"
+
+#: comments.php:58
+msgid "Logged in as"
+msgstr "已登录身份:"
+
+#: comments.php:58
+msgid "Logout &raquo;"
+msgstr "退出 &raquo;"
+
+#: comments.php:61
+msgid "Name"
+msgstr "名称"
+
+#: comments.php:61 comments.php:65 comments.php:69
+msgid "(required)"
+msgstr "(必填)"
+
+#: comments.php:65
+msgid "Email"
+msgstr "电子邮件"
+
+#: comments.php:65 comments.php:69
+msgid "(optional)"
+msgstr "(选填)"
+
+#: comments.php:69
+msgid "Website"
+msgstr "网站"
+
+#: comments.php:74
+msgid "Submit Comment"
+msgstr "发表评论"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "评论已关闭."
+
+#: footer.php:5
+msgid "Friends &amp; links"
+msgstr "友情 &amp; 链接"
+
+#: footer.php:16
+msgid "Pages"
+msgstr "独立页面"
+
+#: footer.php:29
+msgid "Monthly archives"
+msgstr "月份归档"
+
+#: footer.php:39
+#, php-format
+msgid "Powered by %s. Theme: %s modified by %s."
+msgstr "由%s强力驱动. 主题: %s来自%s."
+
+#: footer.php:42
+msgid "&#91; Back to top &#93;"
+msgstr "&#91; 回到顶部 &#93;"
+
+#: functions.php:5
+msgid "英文"
+msgstr ""
+
+#: functions.php:5
+msgid "中文"
+msgstr ""
+
+#: functions.php:5
+msgid "主题语言"
+msgstr ""
+
+#: functions.php:9
+msgid "全文式"
+msgstr ""
+
+#: functions.php:9
+msgid "摘要式"
+msgstr ""
+
+#: functions.php:9
+msgid "首页列表"
+msgstr ""
+
+#: functions.php:9
+msgid "全文式下可用&lt;!--more--&gt;标签节选内容"
+msgstr ""
+
+#: functions.php:13
+msgid "主题favicon"
+msgstr ""
+
+#: functions.php:13
+msgid "尺寸=16x16  格式=ico"
+msgstr ""
+
+#: functions.php:18
+msgid "主题logo"
+msgstr ""
+
+#: functions.php:18
+msgid "尺寸≈50x50  格式任意 支持透明"
+msgstr ""
+
+#: functions.php:23
+msgid "顶部公告"
+msgstr ""
+
+#: functions.php:23
+msgid "输入替换默认内容 支持html"
+msgstr ""
+
+#: functions.php:28
+msgid "最新文章"
+msgstr ""
+
+#: functions.php:29
+msgid "最近回复"
+msgstr ""
+
+#: functions.php:30
+msgid "分类列表"
+msgstr ""
+
+#: functions.php:31
+msgid "标签云集"
+msgstr ""
+
+#: functions.php:32
+msgid "登录订阅"
+msgstr ""
+
+#: functions.php:33
+msgid "侧边模块"
+msgstr ""
+
+#: functions.php:38
+msgid "友情链接"
+msgstr ""
+
+#: functions.php:38
+msgid "用于底部模块显示"
+msgstr ""
+
+#: functions.php:43
+msgid "统计代码"
+msgstr ""
+
+#: functions.php:43
+msgid "用于底部最后载入"
+msgstr ""
+
+#: header.php:5
+#, php-format
+msgid "Category: %s"
+msgstr "分类: %s"
+
+#: header.php:5
+#, php-format
+msgid "Search Result: %s"
+msgstr "搜索结果: %s"
+
+#: header.php:5
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "标签: %s"
+
+#: header.php:5
+#, php-format
+msgid "Author Archive: %s"
+msgstr "作者: %s"
+
+#: header.php:54
+msgid "Hey there! Thanks for dropping by"
+msgstr "嗨你好！欢迎来到"
+
+#: header.php:54
+msgid "! Take a look around and grab the"
+msgstr "！四处转转并使用"
+
+#: header.php:54
+msgid "RSS feed"
+msgstr "RSS源"
+
+#: header.php:54
+msgid "to stay updated. See you around!"
+msgstr "订阅我的更新吧。欢迎以后常来！"
+
+#: header.php:61
+msgid "Home"
+msgstr "首页"
+
+#: index.php:14
+#, php-format
+msgid "Latest %sEntries%s &raquo;"
+msgstr "首页 %s更新%s &raquo;"
+
+#: index.php:25
+msgid "View full article &raquo;"
+msgstr "查看完整文章 &raquo;"
+
+#: page.php:19 page_with_sidebar.php:19
+msgid "Edit Page"
+msgstr "编辑页面"
+
+#: page.php:21 page_with_sidebar.php:21 post.php:23
+msgid "Permanent Link"
+msgstr "永久链接"
+
+#: post.php:21
+msgid "Edit Post"
+msgstr "编辑文章"
+
+#: post.php:26
+#, php-format
+msgid "<abbr title=\"%s\">RSS</abbr> feed"
+msgstr "<abbr title=\"%s\">RSS</abbr>源"
+
+#: search.php:4
+msgid "Results &raquo;"
+msgstr "搜索结果 &raquo;"
+
+#: sidebar.php:5
+msgid "Recent entries"
+msgstr "最新文章"
+
+#: sidebar.php:13
+msgid "Recent comments"
+msgstr "最近回复"
+
+#: sidebar.php:24
+msgid "Browse popular tags"
+msgstr "热门标签"
+
+#: sidebar.php:37
+msgid "Categories"
+msgstr "分类"
+
+#: sidebar.php:45
+msgid "Meta"
+msgstr "其它"
+
+#: sidebar.php:48
+msgid "Site Admin"
+msgstr "进入后台"
+
+#: sidebar.php:49
+msgid "Log out"
+msgstr "退出"
+
+#: sidebar.php:51
+msgid "Log in"
+msgstr "登录"
+
+#: sidebar.php:53
+msgid "Entries RSS"
+msgstr "文章 RSS"
+
+#: sidebar.php:54
+msgid "Comments RSS"
+msgstr "评论 RSS"
